@@ -63,7 +63,6 @@
 	<CircuitSymbol CircuitSymbolId="f4c0c3ff-9797-4e94-843e-77905c8d11b1" CircuitId="00000000-0000-0000-0000-000000040300" LogicalCircuitId="65a15877-44c1-452e-892a-5ae398d1a286" X="34" Y="40" />
 	<CircuitSymbol CircuitSymbolId="802d225a-10e7-4288-ac76-18c1bead9676" CircuitId="00000000-0000-0000-0000-000000020101" LogicalCircuitId="65a15877-44c1-452e-892a-5ae398d1a286" X="22" Y="9" Rotation="Right" />
 	<CircuitSymbol CircuitSymbolId="b33f1eb2-d469-4f81-b73e-7299b7f0ffa2" CircuitId="00000000-0000-0000-0000-000000040200" LogicalCircuitId="65a15877-44c1-452e-892a-5ae398d1a286" X="34" Y="50" />
-	<CircuitSymbol CircuitSymbolId="95c8c5a4-4654-4cc9-8063-659c7e420b4c" CircuitId="65a15877-44c1-452e-892a-5ae398d1a286" LogicalCircuitId="f184d81a-b4b1-4acf-8431-4ba745f40d74" X="14" Y="10" />
 	<Wire WireId="d107cb40-a240-4a5e-9655-e2453027e93e" LogicalCircuitId="65a15877-44c1-452e-892a-5ae398d1a286" X1="8" Y1="33" X2="8" Y2="41" />
 	<Wire WireId="6371b412-9eb4-4cd2-aaa1-a49153969d4a" LogicalCircuitId="65a15877-44c1-452e-892a-5ae398d1a286" X1="39" Y1="66" X2="39" Y2="69" />
 	<Wire WireId="cd5adaa1-d546-445e-b26e-89594ef727d6" LogicalCircuitId="65a15877-44c1-452e-892a-5ae398d1a286" X1="37" Y1="125" X2="38" Y2="125" />
